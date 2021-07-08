@@ -9,12 +9,11 @@ h1 {
     font-size: 50px;
 }
 
-.thumb1{
-    position: relative;
-    margin-left: 260px;
+.container {
+    display: flex;
+    justify-content: center;
 }
 
-.thumb3{
-    position: relative;
-    margin-left: 260px;
+.thumbs {
+    margin: 20px;
 }
