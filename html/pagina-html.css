@@ -1,0 +1,20 @@
+body{
+    background-color: #1d1d1d;
+}
+
+h1{
+    color: #ffffff;
+    text-align: center;
+    margin-top: 40px;
+    font-size: 50px;
+}
+
+.video-html{
+    position: relative;
+    margin-left: 190px;
+}
+
+.voltar{
+    position: relative;
+    margin-left: 460px;
+}
